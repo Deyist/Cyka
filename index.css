@@ -1,0 +1,103 @@
+.button {
+   color:black;
+   font-family:"Comic Sans MS";
+    padding: 80px 120px;
+    border-width: 1px;
+    border: purple ;
+    border-style:solid;
+    border-radius: 100%;
+    font-size: 50px;
+    outline: none;
+    height: 350px;
+    width: 420px;
+    margin-right: 375px;
+    margin-top: 410px;
+    cursor:pointer;
+    
+}
+.d{
+    text-align: right;
+    margin: auto;
+   
+}
+.adid{
+    height:300px;
+    width:400px;
+    position:absolute;
+    right:  400px;
+    bottom: 200px;
+}
+
+
+
+
+
+.b{
+    background-image: url("images/metry3.png");
+}
+
+
+.chap{
+    height: 400px;
+    width: 500px;
+    right: 330px;
+    top: 150px;
+    position: absolute;
+}
+.button2{
+    left: 130px;
+    bottom: 18px;
+    border-color: #999999;
+    outline-style: none;
+    cursor:pointer;
+    position: absolute;
+    background-color:#000099;
+    height:10px;
+    width:10px;
+}
+
+#button3{
+    left: 150px;
+    bottom: 18px;
+    border-color: #999999;
+    outline-style: none;
+    cursor:pointer;
+    position: absolute;
+    background-color: #0000e6;
+    height:10px;
+    width:10px;
+}
+#button4{
+    left: 170px;
+    bottom: 18px;
+    border-color: #999999;
+    outline-style: none;
+    cursor:pointer;
+    position: absolute;
+    background-color: #3333ff;
+    height:10px;
+    width:10px;
+}
+#button5{
+    left: 190px;
+    bottom: 18px;
+    border-color: #999999;
+    outline-style: none;
+    cursor:pointer;
+    position: absolute;
+    background-color:magenta;
+    height:10px;
+    width:10px;
+
+}
+#butstop{
+    left: 110px;
+    bottom: 18px;
+    border-color: #999999;
+    outline-style: none;
+    cursor:pointer;
+    position: absolute;
+    background-color:red;
+    height:10px;
+    width:10px;
+}
